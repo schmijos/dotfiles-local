@@ -1,0 +1,6 @@
+[user]
+  name = Josua Schmid
+  email = josua.schmid@renuo.ch
+  signingkey = 94C61A32914BE5C8
+[commit]
+  gpgsign = true
