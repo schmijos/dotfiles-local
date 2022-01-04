@@ -1,0 +1,8 @@
+[user]
+	name = Josua Schmid
+	email = josua.schmid@renuo.ch
+	signingkey = 3B7246B80CA7A30D
+[commit]
+	gpgsign = true
+[gpg]
+	program = /opt/homebrew/bin/gpg

@@ -1,0 +1,54 @@
+[submodule "nerdtree"]
+	path = config/nvim/pack/plugins/opt/nerdtree
+	url = git@github.com:preservim/nerdtree.git
+[submodule "copilot.vim"]
+	path = config/nvim/pack/plugins/opt/copilot.vim
+	url = git@github.com:github/copilot.vim.git
+[submodule "dracula"]
+	path = config/nvim/pack/plugins/opt/dracula
+	url = git@github.com:dracula/vim.git
+[submodule "nerdtree-tabs"]
+	path = config/nvim/pack/plugins/opt/nerdtree-tabs
+	url = git@github.com:jistr/vim-nerdtree-tabs.git
+[submodule "nerdcommenter"]
+	path = config/nvim/pack/plugins/opt/nerdcommenter
+	url = git@github.com:preservim/nerdcommenter.git
+[submodule "vim-colors-xcode"]
+	path = config/nvim/pack/plugins/opt/vim-colors-xcode
+	url = git@github.com:arzg/vim-colors-xcode.git
+[submodule "telescope"]
+	path = config/nvim/pack/plugins/opt/telescope
+	url = git@github.com:nvim-telescope/telescope.nvim.git
+[submodule "plenary"]
+	path = config/nvim/pack/plugins/opt/plenary
+	url = git@github.com:nvim-lua/plenary.nvim.git
+[submodule "vim-rails"]
+	path = config/nvim/pack/plugins/opt/vim-rails
+	url = git@github.com:tpope/vim-rails.git
+[submodule "vim-bundler"]
+	path = config/nvim/pack/plugins/opt/vim-bundler
+	url = git@github.com:tpope/vim-bundler.git
+[submodule "vim-rake"]
+	path = config/nvim/pack/plugins/opt/vim-rake
+	url = git@github.com:tpope/vim-rake.git
+[submodule "typescript-vim"]
+	path = config/nvim/pack/plugins/opt/typescript-vim
+	url = git@github.com:leafgarland/typescript-vim.git
+[submodule "vim-javascript"]
+	path = config/nvim/pack/plugins/opt/vim-javascript
+	url = git@github.com:pangloss/vim-javascript.git
+[submodule "vim-jsx-typescript"]
+	path = config/nvim/pack/plugins/opt/vim-jsx-typescript
+	url = git@github.com:peitalin/vim-jsx-typescript.git
+[submodule "coc"]
+	path = config/nvim/pack/plugins/opt/coc
+	url = git@github.com:neoclide/coc.nvim.git
+[submodule "coq"]
+	path = config/nvim/pack/plugins/opt/coq
+	url = git@github.com:ms-jpq/coq_nvim.git
+[submodule "vim-slim"]
+	path = config/nvim/pack/plugins/opt/vim-slim
+	url = git@github.com:slim-template/vim-slim.git
+[submodule "vim-ruby"]
+	path = config/nvim/pack/plugins/opt/vim-ruby
+	url = git@github.com:vim-ruby/vim-ruby.git
